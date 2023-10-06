@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular,Nextjs,vb.net,etc**
 
-- 💬 Ask me about **react,c,c++,html,css,Js**
+- 💬 Ask me about **react, c, c++, HTML, CSS, Js**
 
 - 📫 How to reach me **ytpatel115@gmail.com**
 
